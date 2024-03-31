@@ -1,0 +1,15 @@
+@charset "utf-8";
+body{ background-color: rgb(85, 98, 37); font-family: 'Times New Roman'; font-size: 20px;
+
+}
+h1{ color: burlywood;
+background-color: aquamarine;
+}
+h2{
+    color: burlywood;
+    background-color: aquamarine;
+}
+p{
+    text-align: justify;
+}
+    
