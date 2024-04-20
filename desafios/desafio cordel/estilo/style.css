@@ -54,9 +54,23 @@ section.normal{
     color: black;
 
 }
+section > p{
+    padding-bottom: 1em;
+}
+section#img01{
+background-image: url(../imagens/background001.jpg);
+background-position: right, center;
+background-size: cover;
+}
+section#img02{
+background-image: url(../imagens/background002.jpg);
+background-position: right, center;
+background-size: cover;
+}
 section.imagen{
     background-color: rgb(49, 48, 48);
     color: white;
+    background-attachment: fixed;
 }
 section.imagen >P{
     width: 500px;
